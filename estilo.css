@@ -1,0 +1,154 @@
+
+body{
+    background-color:rgb(0, 0, 0);
+    }
+    
+#page-home {
+    height: 150vh;
+    background: url(https://steamuserimages-a.akamaihd.net/ugc/866241622021777365/9894657B47A0F44BFFB2673B7628C5CAF6CB35B4/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true) no-repeat;
+    background-size: cover;
+}
+
+
+#page-home .content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#page-home .content .title_editor{
+    margin: 0;
+    color: rgb(255, 108, 177);
+    font-family: 'Lexend Tera', sans-serif; font-size: 60px;
+    width: 1000px;
+    text-align: center;
+}
+
+
+#page-home .content .img_editor{
+    width: 250px;
+    border-style: ridge;
+    border-radius: 200px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#page-home .content .p1_editor{
+    margin-top: 10px;
+    width: 600px;
+    color:rgb(255, 255, 255);
+    font-family: 'Press Start 2P', cursive; font-size: 18px;
+    text-align: center;
+}
+
+ #page-home .content .p1_editor:hover{
+    width: 1000px;
+    color:rgb(44, 118, 255);
+    font-family: 'Press Start 2P', cursive; font-size: 30px;
+    text-align: center;
+    transition: 0.5s;
+} 
+
+
+#page-home .content .p2_editor{
+    margin-top: 10px;
+    width: 600px;
+    color:rgb(255, 255, 255);
+    font-family: 'Press Start 2P', cursive; font-size: 18px;
+}
+
+ #page-home .content .p2_editor:hover{
+    width: 1000px;
+    color:rgb(28, 255, 217);
+    font-family: 'Press Start 2P', cursive; font-size: 30px;
+    transition: 0.5s;
+
+} 
+
+#page-home .content .p3_editor{
+    margin-top: 10px;
+    width: 600px;
+    color:rgb(255, 255, 255);
+    font-family: 'Press Start 2P', cursive; font-size: 18px;
+}
+
+ #page-home .content .p3_editor:hover{
+    width: 1000px;
+    color:rgb(208, 255, 0);
+    font-family: 'Press Start 2P', cursive; font-size: 30px;
+    transition: 0.5s;
+}
+
+#page-home .content .p4_editor{
+    margin-top: 10px;
+    width: 600px;
+    color:rgb(255, 255, 255);
+    font-family: 'Press Start 2P', cursive; font-size: 18px;
+}
+
+#page-home .content .p4_editor:hover{
+    margin-top: 10px;
+    width: 1000px;
+    color:rgb(250, 94, 32);
+    font-family: 'Press Start 2P', cursive; font-size: 30px;
+    transition: 0.5s;
+}
+
+#page-home .content .p5_editor{
+    margin-top: 10px;
+    width: 600px;
+    color:rgb(255, 255, 255);
+    font-family: 'Press Start 2P', cursive; font-size: 18px;
+}
+
+#page-home .content .p5_editor:hover{
+    margin-top: 10px;
+    width: 1000px;
+    color:rgb(0, 255, 0);
+    font-family: 'Press Start 2P', cursive; font-size: 30px;
+    transition: 0.5s;
+}
+
+
+#page-home .content .giff_1{
+    width: 600px;
+    margin-right: 10px;
+    margin-top: 0px;
+    border-style: ridge;
+    border-radius: 100px;
+
+}
+
+#page-home .content .giff_1:hover{
+    width: 1000px;
+    transition: 0.6s;
+
+}
+
+#page-home .content .giff_2{
+    width: 525px;
+    margin-right: 10px;
+    margin-top: 0px;
+    border-style: ridge;
+    border-radius: 100px;
+
+}
+
+#page-home .content .giff_2:hover{
+    width: 900px;
+    transition: 0.6s;
+}
+
+#page-home .content .giff_3{
+    width: 295px;
+    margin-right: 10px;
+    margin-top: 0px;
+    border-style: ridge;
+    border-radius: 100px;
+}
+
+#page-home .content .giff_3:hover{
+    width: 500px;
+    margin-right: 10px;
+    transition: 0.5s;
+}
